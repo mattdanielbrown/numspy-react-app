@@ -8,7 +8,7 @@
     "bootstrap": "^3.3.7",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-inputs-validation": "^1.0.1",
+    "react-inputs-validation": "^4.9.10",
     "react-scripts": "1.1.4"
   },
   "scripts": {
